@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">EjemploPasoDePagina</string>
+
+    <string name="btn_title_name">Ir al formulario</string>
+    <string name="tv_status_name">No completado</string>
+
+</resources>
+
