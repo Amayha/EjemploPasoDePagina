@@ -4,5 +4,12 @@
     <string name="btn_title_name">Ir al formulario</string>
     <string name="tv_status_name">No completado</string>
 
+
+    <string name="hint_userform_name"> ¿Como te llamas?</string>
+    <string name="hint_userform_email">nosoy@unatortuga.com</string>
+    <string name="hint_userform_nick">PAP</string>
+
+    <string name="btn_title_userform">Completado</string>
+
 </resources>
 
